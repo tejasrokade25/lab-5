@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int mai()
+int main()
 { 
 	int a,b,c;
 	cout<<"enter the three numbers.";
@@ -10,7 +10,7 @@ int mai()
 		if(a>c)
 		{cout<<a<<" is the biggest number";}
 		else
-		{cout<<c<<" si the biggest number"f}
+		{cout<<c<<" si the biggest number";}
 	}
 	else
 	{
